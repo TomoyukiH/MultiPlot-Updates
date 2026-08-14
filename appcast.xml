@@ -27,25 +27,4 @@
             <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.1/Multi-Plot-0.3.1-4-universal-beta.zip" length="7076457" type="application/octet-stream" sparkle:edSignature="Duci/4vY00UEnImj6XHA9azTeh+V4Of9daagz5wcT/Fv71ca6tmazN7LS7ilQkcRydlagVDFk0SEtAkgpiQXAw=="/>
         </item>
     </channel>
-</rss><?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Multi Plot</title>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Fri, 14 Aug 2026 14:43:33 +0900</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.1/Multi-Plot-0.3.1-5-universal-beta.zip" length="7076463" type="application/octet-stream" sparkle:edSignature="uTX9DF8tUyngI1v10RpPe+bHCDyM54+iObPj3tImV+kAVq6GL4HZzRIJlcIUTyEWpur97aWGGreVnnX/qHHqAw=="/>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Fri, 14 Aug 2026 11:27:08 +0900</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.1/Multi-Plot-0.3.1-4-universal-beta.zip" length="7076457" type="application/octet-stream" sparkle:edSignature="Duci/4vY00UEnImj6XHA9azTeh+V4Of9daagz5wcT/Fv71ca6tmazN7LS7ilQkcRydlagVDFk0SEtAkgpiQXAw=="/>
-        </item>
-    </channel>
 </rss>

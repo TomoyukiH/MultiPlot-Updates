@@ -4,6 +4,14 @@
         <title>Multi Plot</title>
         <item>
             <title>0.3.2</title>
+            <pubDate>Mon, 17 Aug 2026 22:28:57 +0900</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-9-universal-beta.zip" length="7261819" type="application/octet-stream" sparkle:edSignature="mI/rCddzzFieO0RPZwHSl7ABh5ZNjE1PrFYWSOv9OEKCLS85c9zf2Mu0Ava82adf3CJ29Upg2Sec87DatjDYCw=="/>
+        </item>
+        <item>
+            <title>0.3.2</title>
             <pubDate>Mon, 17 Aug 2026 11:21:38 +0900</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>

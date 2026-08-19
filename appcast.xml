@@ -4,6 +4,14 @@
         <title>Multi Plot</title>
         <item>
             <title>0.3.2</title>
+            <pubDate>Wed, 19 Aug 2026 21:03:11 +0900</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-14-universal-beta.zip" length="7303389" type="application/octet-stream" sparkle:edSignature="1mI/0pAj5VWJcgqbickeldNmpHq5vMTfdi9xty5CJD9XT4FFQaofeiDAOpwBaS18yAuyX383XTujPmgMo4jBCg=="/>
+        </item>
+        <item>
+            <title>0.3.2</title>
             <pubDate>Wed, 19 Aug 2026 20:28:27 +0900</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-12-universal-beta.zip" length="7292922" type="application/octet-stream" sparkle:edSignature="AODgOnA8EOJNluLemSoGpLPlbA1RpOJ4HVhuI/tEaiz1L/qkA53AcifFd1th3slg0/meRvLcnubGOmkHaW1lDQ=="/>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Wed, 19 Aug 2026 19:44:48 +0900</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-11-universal-beta.zip" length="7282032" type="application/octet-stream" sparkle:edSignature="lmtJErIe14DhlXRQ36MCFrlGmW91Qov9dzVhQLRJYcCFe1SeI/r0V8BhO7hYqYz783cFtbeWjyJo/rumVGFYCw=="/>
         </item>
     </channel>
 </rss>

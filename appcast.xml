@@ -3,28 +3,12 @@
     <channel>
         <title>Multi Plot</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Thu, 01 Oct 2026 04:37:01 +0900</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.3.3</title>
+            <pubDate>Thu, 01 Oct 2026 04:40:21 +0900</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-21-universal-beta.zip" length="7289672" type="application/octet-stream" sparkle:edSignature="rBskdVWzs3oe4nvrbYGhPBlpL7Ha1Mwr7Aj40KDxZ+9XU0K2BB1JNtmnwymDiKQkNbix8vLEeDy2JPkvwO0ZBg=="/>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Wed, 09 Sep 2026 23:53:00 +0900</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-20-universal-beta.zip" length="7319977" type="application/octet-stream" sparkle:edSignature="AwnLyGpE8QRkiyGofj9UA0aRQstRdjOAj+V7uzVEU7AciOugoI3DdIl96G1Uv9CVvVRIxf59MX7tJDqaF5+MDQ=="/>
-        </item>
-        <item>
-            <title>0.3.2</title>
-            <pubDate>Wed, 09 Sep 2026 23:14:30 +0900</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.2/Multi-Plot-0.3.2-19-universal-beta.zip" length="7314039" type="application/octet-stream" sparkle:edSignature="4ROShVD4ucd5j31KsRoup43jg79iGSVL9gSIKoiJ7S+KjQWorjsTq5XZqonExOw8b1PdL4yKtalX+INCYRj2Cg=="/>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.3/Multi-Plot-0.3.3-22-universal-beta.zip" length="7289673" type="application/octet-stream" sparkle:edSignature="aDgMWJ5kbZJjtFITOd9l2U/Rtub+twitkZXezcmcqvAATrhw22IpgadLs1iBmaHbDI+p3eCg0X0HG5KP0dMmCw=="/>
         </item>
     </channel>
 </rss>

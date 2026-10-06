@@ -3,12 +3,12 @@
     <channel>
         <title>Multi Plot</title>
         <item>
-            <title>0.3.13</title>
-            <pubDate>Tue, 06 Oct 2026 21:15:46 +0900</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.3.13</sparkle:shortVersionString>
+            <title>0.3.14</title>
+            <pubDate>Tue, 06 Oct 2026 21:22:35 +0900</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.3.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.13/Multi-Plot-0.3.13-32-universal-beta.zip" length="7375485" type="application/octet-stream" sparkle:edSignature="qeLWNz53U9KLJ09aj7rMRbFhUaAyLtMFP8Aq1/aPlFOaTMV8XJUjPSxnU03EtW617Ev9z1xJEZznevmAr3J1DQ=="/>
+            <enclosure url="https://github.com/TomoyukiH/MultiPlot-Updates/releases/download/v0.3.14/Multi-Plot-0.3.14-33-universal-beta.zip" length="7377063" type="application/octet-stream" sparkle:edSignature="YrszsFnsbHpVvHAN6QG41o4jdMGWyECLSmphnlaA2NeOLkEcgItfgVp2YgazggvrPPjJe+A7zG4Y6P+CbrV3Dw=="/>
         </item>
     </channel>
 </rss>
